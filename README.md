@@ -10,3 +10,8 @@ Squared Error is used to determine the PSNR value. Signals are dynamic in nature
 
 VMAF: -
 Video Multi-method Assessment Fusion popularly known as VMAF is objective full reference quality matrix. Netflix created VMAF especially to have a strong correlation with subjective Mean opinion score (MOS) ratings. VMAF is used to predict subjective video quality with the help of reference and distorted video sequence which are elementary quality metrics. Each of this elementary metrics has its own strength and weakness. With respects to source. Fusion in VMAF stand for fusing this elementary metrics into final predicted metrics with the help of machine learning algorithms. Input to this algorithm is sample MOS score. This metric measures the quality loss caused by compression and rescaling.
+
+Result:- 
+![image](https://user-images.githubusercontent.com/97470004/156963394-00aa36a1-78f3-4e7b-b7b5-e910efcf8105.png)
+![image](https://user-images.githubusercontent.com/97470004/156963458-8ed8d33e-31ca-4573-bd1a-d0e1035a4e3c.png)
+
