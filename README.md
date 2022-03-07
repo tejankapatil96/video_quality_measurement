@@ -3,6 +3,7 @@
 The video bits encoded with LDPC codes are further used to measure quality of video in terms of PSNR  and VMAF.
 
 video is encoded with H264 codec and results are observed for three different bit rates.
+
 PSNR: -
 Ratio of maximum power of transmitted signal to total noise power of introduced noise is termed peak signal to noise ratio or PSNR. For video codec, transmitted signal is called as original information bit while noise is considered as error introduced due to channel compression. . For system with lossy compression, quality is computed using PSNR. Mean
 Squared Error is used to determine the PSNR value. Signals are dynamic in nature due to which PSNR is represented in decibels. In general, PSNR value vary between 30dB to 50dB for lossy compression provided that the bit depth of frame is 8 bits. As the bit depth of frame is increases PSNR value also increases. For example, for 12 bit it is up to 60dB and for 16 bits it is up to 80dB. For wireless transmission the acceptable PSNR value is 20dB to 25dB.
